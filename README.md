@@ -13,8 +13,8 @@ It's an old and abandoned project of mine which still does a good job. I wanted 
 
 + `arch64` to change the architecture to x64.
 + `arch32` to change the architecture to x86.
-+ `windows` to change the operating system to Windows. (nasm -f winX
-+ `linux` to change the operating system to Linux. (nasm -f elfX)
++ `windows` to change the operating system to Windows. (nasm -f win..)
++ `linux` to change the operating system to Linux. (nasm -f elf..)
 + `{` & `}` for multi line support. For example:
 ```
 nasmshell> {
